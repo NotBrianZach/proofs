@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+
+
+\title{Derivation of the Quadratic Equation}
+\author{ finiteautomata4 }
+\date{May 15 2017}
+
+%% \usepackage{natbib}
+%% \usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{For laurakh94}
+%% https://www.sharelatex.com/learn/Display_style_in_math_mode
+
+\begin{proof}
+  $ $\newline
+     ax^{2}+bx+c = 0 where a, b, c, and x \in \mathbb{C}
+
+  \begin{itemize}
+\item x^{2} + \frac{b}{a}x + \frac{c}{a} = 0  divide by a
+\item x^{2} + \frac{b}{a}x = -\frac{c}{a}  subtract
+\item (x + \frac{b}{2a})^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} substitute in  (x + \frac{b}{2a})^{2} - \frac{b^{2}}{4a^{2}} 
+\item (x + \frac{b}{2a})^{2} = \frac{b^{2}{4a^{2}} - \frac{c}{a}  add
+\item x + \frac{b}{2a} = (\frac{b^{2}{4a^{2}} - \frac{c}{a} )^{\frac{1}{2}}  square root
+\item x + \frac{b}{2a} = (\frac{b^{2}{4a^{2}} - \frac{c}{a} )^{\frac{1}{2}}  square root
+  \qedhere
+  \end{itemize}
+\end{proof}
+
+\begin{myproof}[Proof of my theorem]
+    First line of my proof
+
+    Intermediary lines of my proof:
+  \begin{itemize}
+   \item next-to-last line
+   \item last line of my proof
+  \qedhere
+  \end{itemize}
+\end{myproof}
+
+\begin{myproof}
+    First line of my proof
+
+    Intermediary lines of my proof:
+  \begin{itemize}
+   \item next-to-last line
+   \item last line of my proof
+  \qedhere
+  \end{itemize}
+\end{myproof}
+
+
+\section{Conclusion}
+Straightforward, but unfortunately unlikely for a student of the US educational system to have learned, much less memorized (and without insight into the substitution step, nontrivial to a nonmathematician).
+
+The general solution of the cubic was one of the central mysteries of mathematics up until the late 1500s. Subsequently, the discovery of the unsolvability of the
+quintic \[ax^{5}+bx^{4}+c...]\ in the rational or irrational numbers led to the (simultaneous) creation of the complex numbers and the beginnings of modern algebra, where fields, groups, and rings are frequently glued together like legos covered in playdough.
+
+code available at https://github.com/NotBrianZach/proofs
+
+\end{document}
