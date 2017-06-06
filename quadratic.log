@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2016.9.25)  15 MAY 2017 23:48
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2016.9.25)  6 JUN 2017 00:30
 entering extended mode
 **\nonstopmode\input quadratic.tex
 (./quadratic.tex
@@ -328,251 +328,95 @@ Package: amsthm 2004/08/06 v2.20
 \thm@postskip=\skip47
 \thm@headsep=\skip48
 \dth@everypar=\toks24
-) (./quadratic.aux)
+)
+(/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/gen
+eric/babel/babel.sty
+Package: babel 2004/11/20 v3.8d The Babel package
+
+(/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/gen
+eric/babel/english.ldf
+Language: english 2004/06/14 v3.3o English support from the babel system
+
+(/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/gen
+eric/babel/babel.def
+File: babel.def 2004/11/20 v3.8d Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+\c@definition=\count100
+\c@theorem=\count101
+\c@lemma=\count102
+ (./quadratic.aux)
 \openout1 = `quadratic.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
 
 (/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/lat
 ex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
 
 (/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/lat
 ex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
-! Missing $ inserted.
-<inserted text> 
-                $
-l.21      ax^
-             {2}+bx+c = 0 where a, b, c, and x \in \mathbb{C}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.22 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.22 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.22 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 
 (/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/tex/lat
 ex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+ [1
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.24 \item x^
-             {2} + \frac{b}{a}x + \frac{c}{a} = 0  divide by a
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \item
-           x^{2} + \frac{b}{a}x = -\frac{c}{a}  subtract
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \item x
-            ^{2} + \frac{b}{a}x = -\frac{c}{a}  subtract
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \item x
-            ^{2} + \frac{b}{a}x = -\frac{c}{a}  subtract
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item
-           (x + \frac{b}{2a})^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.26 \item (
-            x + \frac{b}{2a})^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26 \item (
-            x + \frac{b}{2a})^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.26 \item (
-            x + \frac{b}{2a})^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.26 \item (x + \frac{b}{2a}
-                            )^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
-                                                 
-l.26 \item (x + \frac{b}{2a}
-                            )^{2}  - \frac{b^{2}}{4a^{2}}= -\frac{c}{a} subs...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \item
-           (x + \frac{b}{2a})^{2} = \frac{b^{2}{4a^{2}} - \frac{c}{a}  add
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \item (
-            x + \frac{b}{2a})^{2} = \frac{b^{2}{4a^{2}} - \frac{c}{a}  add
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \item (
-            x + \frac{b}{2a})^{2} = \frac{b^{2}{4a^{2}} - \frac{c}{a}  add
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
-Runaway argument?
-{b^{2}{4a^{2}} - \frac {c}{a} add \item x + \frac {b}{2a} = (\frac {b\ETC.
-! File ended while scanning use of \frac .
-<inserted text> 
-                \par 
-<*> \nonstopmode\input quadratic.tex
-                                    
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-! Emergency stop.
-<*> \nonstopmode\input quadratic.tex
-                                    
-*** (job aborted, no legal \end found)
-
- 
+{/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-var/fonts/ma
+p/pdftex/updmap/pdftex.map}] (./quadratic.aux) ) 
 Here is how much of TeX's memory you used:
- 1404 strings out of 94500
- 16887 string characters out of 1167964
- 62356 words of memory out of 1000000
- 4587 multiletter control sequences out of 10000+50000
+ 1729 strings out of 94500
+ 20911 string characters out of 1167964
+ 73704 words of memory out of 1000000
+ 4898 multiletter control sequences out of 10000+50000
  11243 words of font info for 44 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 27i,6n,24p,294b,204s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 27i,6n,24p,297b,199s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
- 0 PDF objects out of 300000
+ 37 PDF objects out of 300000
  0 named destinations out of 131072
  1 words of extra memory for PDF output out of 65536
-No pages of output.
+</nix/store/vfqgs7xkws6m66194ss
+b899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/type1/bluesky/cm/cmr5.pfb></nix/
+store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/type1/b
+luesky/cm/cmmi7.pfb></nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/shar
+e/texmf-dist/fonts/type1/bluesky/symbols/msbm10.pfb></nix/store/vfqgs7xkws6m661
+94ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10.pfb>
+</nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/t
+ype1/bluesky/cm/cmr10.pfb></nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.
+0/share/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></nix/store/vfqgs7xkws6m6619
+4ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pfb><
+/nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/ty
+pe1/bluesky/cm/cmti10.pfb></nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.
+0/share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></nix/store/vfqgs7xkws6m66
+194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb>
+</nix/store/vfqgs7xkws6m66194ssb899009a9dpvn-tetex-3.0/share/texmf-dist/fonts/t
+ype1/bluesky/cm/cmr17.pfb>
+Output written on quadratic.pdf (1 page, 47819 bytes).
